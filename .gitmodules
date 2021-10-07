@@ -1,0 +1,3 @@
+[submodule "contrib_tensorflow"]
+	path = contrib_tensorflow
+	url = git@github.com:elis351/contrib_tensorflow.git
